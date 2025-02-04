@@ -9,4 +9,4 @@ command line eg,
 clever next
 
 ## Download
-Download the EXE from the (CLEveR)[https://winampheritage.com/plugin/clever/58602] or my CLEveR folder.
+Download the EXE from the [CLEveR](https://winampheritage.com/plugin/clever/58602) or my CLEveR folder.
