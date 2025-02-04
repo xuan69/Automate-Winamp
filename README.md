@@ -1,11 +1,9 @@
 # Automate-Winamp
 CLEveR.exe, command line tool to control playback of Winamp
 
-Back in 2014 I needed to automate Winamp, forward a track every 30 minutes, as it was playing from a playlist of radio streams for example.
+Back in 2014 I needed to automate Winamp, forward a track every 30 minutes, as it was playing from a playlist of radio streams, I used a batch file with this command line tool to do it.
 
-I used a batch file with this command line tool to do it
-
-command line eg,
+commandline eg,
 clever next
 
 ## Download
