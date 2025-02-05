@@ -7,4 +7,4 @@ commandline eg,
 clever next
 
 ## Download
-Download the EXE from the [CLEveR](https://winampheritage.com/plugin/clever/58602) or my [CLEveR](https://github.com/xuan69/Automate-Winamp/blob/917f239ddc126d8f598e226918209083f837d60b/CLEveR/CLEveR.exe) folder.
+Download the EXEn from the [CLEveR](https://winampheritage.com/plugin/clever/58602) (original) or my [CLEveR](https://github.com/xuan69/Automate-Winamp/blob/917f239ddc126d8f598e226918209083f837d60b/CLEveR/CLEveR.exe) (backup) folder.
